@@ -13,6 +13,6 @@
 ?>
 </header>
 
-<a href ="tienda.php"><img style= "width: 100%" src = "./images/background.jpg"></a>
+<img style= "width: 100%" src = "./images/background.jpg">
 </body>
 </html>
